@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2in"
+   height="2in"
+   viewBox="0 0 50.800001 50.800001"
+   version="1.1"
+   id="svg3701"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Truthtrance Symbol.svg">
+  <defs
+     id="defs3695">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5856"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="63.159327"
+     inkscape:cy="160"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     units="in"
+     inkscape:window-width="777"
+     inkscape:window-height="420"
+     inkscape:window-x="701"
+     inkscape:window-y="354"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3698">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)">
+    <g
+       transform="matrix(50.800001,0,0,50.800001,-38.099995,-876.48004)"
+       id="g1525-8">
+      <path
+         id="path7189-4"
+         d="m 0.7499999,22.1 h 1 v 1 h -1 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.00195312" />
+      <path
+         sodipodi:nodetypes="ccscccscssccccssscsccccsscccsccccccccccccccccccccccccccccccccccccccc"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.00195312"
+         inkscape:connector-curvature="0"
+         d="m 1.1627207,22.1412 c -0.101126,0 -0.19288,0.02392 -0.2607422,0.0639 -0.067866,0.03998 -0.113162,0.0976 -0.113162,0.16382 0,0.0655 0.04432,0.12268 0.110962,0.1626 l -0.055724,0.207332 0.189394,-0.15594 c 0.040332,0.009 0.083836,0.0138 0.12927,0.0138 0.101124,0 0.192942,-0.02394 0.2608046,-0.0639 0.067864,-0.03998 0.113158,-0.09766 0.113158,-0.16388 0,-0.06622 -0.045292,-0.12384 -0.113156,-0.16382 -0.067864,-0.03998 -0.15968,-0.0639 -0.2608008,-0.0639 z m 0,0.0365 c 0.095312,0 0.181378,0.02298 0.242246,0.05884 0.06087,0.03586 0.095214,0.0829 0.095214,0.13238 0,0.04948 -0.034346,0.0966 -0.095214,0.13246 -0.060868,0.03586 -0.146934,0.05884 -0.242246,0.05884 -0.095312,0 -0.181384,-0.02298 -0.242252,-0.05884 -0.060866,-0.03586 -0.095152,-0.08296 -0.095152,-0.13244 0,-0.04948 0.034288,-0.09654 0.095156,-0.13238 0.060866,-0.03586 0.14693,-0.05884 0.2422422,-0.05884 z m 0.278991,0.42432 c -0.14625,0 -0.264832,0.08156 -0.264832,0.1822 0,0.10062 0.118586,0.18218 0.264832,0.18218 0.035606,0 0.069576,-0.0048 0.100586,-0.0136 l 0.133848,0.09992 -0.04858,-0.13874 c 0.048724,-0.03304 0.078978,-0.07896 0.078978,-0.12976 0,-0.10062 -0.118582,-0.18218 -0.264832,-0.18218 z m -0.13739,0.0827 h 0.064272 v 0.0365 h -0.064276 v -0.0365 z m 0.10077,0 h 0.176454 v 0.0365 h -0.176454 z m -0.154238,0.08154 h 0.152956 v 0.0365 h -0.152956 z m 0.189456,0 h 0.040954 v 0.0365 h -0.040958 z m 0.077454,0 h 0.09961 v 0.0365 h -0.09961 z m -0.2134376,0.07618 h 0.154414 v 0.0365 h -0.154418 v -0.0365 z m 0.190914,0 h 0.086304 v 0.0365 h -0.086304 z"
+         id="path7191-8" />
+      <text
+         id="text7214-1"
+         y="22.452728"
+         x="1.0973296"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.25px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02083334"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.25px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#ffffff;stroke-width:0.02083334"
+           y="22.452728"
+           x="1.0973296"
+           id="tspan7212-0"
+           sodipodi:role="line">?</tspan></text>
+    </g>
+  </g>
+</svg>

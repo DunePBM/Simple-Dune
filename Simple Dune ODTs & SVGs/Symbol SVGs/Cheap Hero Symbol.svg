@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2in"
+   height="2in"
+   viewBox="0 0 50.800001 50.800001"
+   version="1.1"
+   id="svg3701"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Cheap Hero Symbol.svg">
+  <defs
+     id="defs3695">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5856"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="63.159327"
+     inkscape:cy="160"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     units="in"
+     inkscape:window-width="777"
+     inkscape:window-height="420"
+     inkscape:window-x="701"
+     inkscape:window-y="354"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3698">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)">
+    <g
+       transform="matrix(0.09921875,0,0,0.09921875,0,246.19998)"
+       id="g6813"
+       inkscape:transform-center-x="-29.633259"
+       inkscape:transform-center-y="-24.341608">
+      <path
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path6796" />
+      <g
+         class=""
+         id="g6800">
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 467.838,35.848 c -53.208,3.518 -101.284,8.091 -139.14,50.18 9.869,29.563 26.168,65.884 46.613,95.234 20.504,29.436 44.758,50.59 68.61,53.297 C 479.186,201.502 497.62,121.96 467.838,35.848 Z M 189.8,46.02 a 70.936,54.43 66.039 0 0 -15.987,3.638 70.936,54.43 66.039 0 0 -20.931,86.928 70.936,54.43 66.039 0 0 51.62,45.443 c 2.392,57.507 -19.428,43.883 -70.534,73.606 l 15.888,31.69 c 35.566,-13.731 51.844,-19.703 69.27,-44.317 32.586,93.92 -1.874,157.236 -23.688,247.078 l 33.711,4.916 c 23.698,-57.247 55.114,-122.355 62.438,-181.422 48.937,51.134 77.498,114.641 114.65,169.143 l 35.82,-14.75 c -45.81,-80.724 -65.633,-128.371 -150.591,-262.19 26.819,-0.194 49.826,-6.592 70.683,-15.422 -7.036,-10.105 -13.565,-20.882 -19.529,-31.886 -28.223,12.083 -59.028,16.997 -90.14,0.855 A 70.936,54.43 66.039 0 0 252.362,92.375 70.936,54.43 66.039 0 0 189.8,46.02 Z m -174.33,41.289 3.287,34.09 52.6,107.77 L 92.925,218.643 40.542,111.318 15.47,87.308 Z m 97.066,139.566 -46.756,22.822 3.137,18.496 56.271,-27.464 z m 2.318,36.701 -21.568,10.528 16.668,34.15 21.568,-10.527 -16.668,-34.15 z"
+           id="path6798" />
+      </g>
+    </g>
+  </g>
+</svg>

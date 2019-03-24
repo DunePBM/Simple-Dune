@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2in"
+   height="2in"
+   viewBox="0 0 50.800001 50.800001"
+   version="1.1"
+   id="svg3701"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Ghola Symbol.svg">
+  <defs
+     id="defs3695">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5856"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="63.159327"
+     inkscape:cy="160"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     units="in"
+     inkscape:window-width="777"
+     inkscape:window-height="420"
+     inkscape:window-x="701"
+     inkscape:window-y="354"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3698">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)">
+    <g
+       id="g7135"
+       transform="matrix(101.59999,0,0,101.60001,-457.19996,-1592.7601)">
+      <g
+         id="g7130">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.00097656"
+           inkscape:connector-curvature="0"
+           d="M 4.5,18.1 H 5 v 0.5 H 4.5 Z"
+           id="path7054" />
+        <path
+           id="path7056"
+           d="m 4.7450195,18.118457 c -0.02334,0.0029 -0.044238,0.02993 -0.044238,0.06542 0,0.01944 0.00664,0.03653 0.016406,0.04845 l 0.011914,0.01416 -0.018262,0.0034 c -0.012695,0.0024 -0.02207,0.0093 -0.02998,0.02031 -0.0083,0.01123 -0.014453,0.02627 -0.018652,0.04414 -0.00781,0.03193 -0.00967,0.071 -0.00967,0.105665 h 0.042578 l 0.011426,0.156738 c 0.029687,0.0068 0.061621,0.0063 0.090137,0 l 0.010449,-0.156738 h 0.040527 c 0,-0.03486 -4.882e-4,-0.07461 -0.00762,-0.107129 -0.00381,-0.01748 -0.00977,-0.03291 -0.017774,-0.04404 -0.00801,-0.01084 -0.018066,-0.01738 -0.032519,-0.01963 l -0.018457,-0.0029 0.011621,-0.01455 c 0.00967,-0.01182 0.016016,-0.02891 0.016016,-0.04786 0,-0.03764 -0.023437,-0.06542 -0.049121,-0.06542 z m 0.1416016,0.0035 v 0.04087 h -0.04082 v 0.04898 h 0.04082 v 0.04063 h 0.04873 v -0.04063 h 0.040918 v -0.04898 h -0.040918 v -0.04087 z m -0.3349414,0.03945 v 0.02986 h -0.029815 v 0.03577 h 0.029815 v 0.02969 h 0.035547 v -0.02969 h 0.029863 v -0.03577 h -0.029863 v -0.02986 z m 0.038779,0.133604 v 0.02129 h -0.021367 v 0.02568 h 0.021367 v 0.02139 h 0.025654 v -0.02139 h 0.021289 v -0.02568 h -0.021289 v -0.02129 z m 0.346748,0.06094 v 0.02129 h -0.021387 v 0.02568 h 0.021387 v 0.02139 h 0.025684 v -0.02139 h 0.021289 v -0.02568 h -0.021289 v -0.02129 z m -0.3002929,0.09707 v 0.01465 h -0.014648 v 0.01758 h 0.014648 v 0.01465 h 0.017676 v -0.01465 h 0.014648 v -0.01758 h -0.014648 v -0.01465 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.00097656"
+           sodipodi:nodetypes="csccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
