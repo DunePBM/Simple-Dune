@@ -3,12 +3,12 @@ Simple-Dune
 
 This is a cheap, printable edition of the AH Dune board game.
 
-This is much in the spirit of the wonderful Dirt Cheap Dune, but 
-since 2012 there has been a proliferation of really great, clean, 
-vector based open source art. Having icons makes the game more 
-accessible.
-
-Dune is a wonderful game, but as it has been out of print for 
+Dune is a wonderful game, but as it has been out of print for a 
+number of years. There are a number of print-and-play options. 
+This is a low cost option, much in the spirit of the wonderful Dirt 
+Cheap Dune, but since 2012 there has been a proliferation of really 
+great, clean, vector based open source art. Having icons makes the 
+game more accessible.
 
 This file contains all of the materials needed to play, except for 
 the rules.
@@ -39,11 +39,6 @@ makes information like leader strength readily available.
 
 Printing options are to either run them on cardstock, or run them on 
 regular paper and have them laminated. 
-
-The classiest way to go about this is printing double sided in the 
-following order 3, 21, 4, 21, 5, 21, 6, 21, 7, 20, 8, 20, 9, 20, 10, 
-20, 11, 21, 12, 20, 13, 19, 14, 19, 15, 19, 16 ,19, 17, 19, 18, 19, 
-and then laminating each of the pages.
 
 Thank you for checking this out.
 
