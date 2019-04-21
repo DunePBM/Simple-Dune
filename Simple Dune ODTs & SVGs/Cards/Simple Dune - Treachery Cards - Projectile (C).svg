@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.5in"
+   height="2in"
+   viewBox="0 0 1.5 2"
+   version="1.1"
+   id="svg2014"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Simple Dune - Treachery Cards - Projectile (C).svg">
+  <defs
+     id="defs2008">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5856"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="191.60576"
+     inkscape:cy="321.46667"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-bbox-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6312"
+       spacingx="0.25"
+       spacingy="0.25"
+       units="in"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2011">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-26.6)">
+    <g
+       id="g1133">
+      <rect
+         y="26.614258"
+         x="0.01425862"
+         height="1.9714819"
+         width="1.4714826"
+         id="rect1057-0-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.02851749;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(2,0,0,2,-3.7499995,-12.349999)"
+         id="g7675">
+        <path
+           id="path931"
+           d="m 2,19.6 h 0.4999999 v 0.5 H 2 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.00097656" />
+        <g
+           transform="matrix(9.8814296e-4,0,0,9.6222635e-4,1.9917383,19.595229)"
+           id="g935"
+           class="">
+          <path
+             id="path933"
+             d="m 128.41974,34.860768 c -4.538,-0.146 -7.07389,1.288445 -12.88689,7.101445 -5.586,5.586 -7.52185,9.103787 -10.92885,23.370787 -0.234,0.979 -0.444,1.907 -0.654,2.836 l 114.254,105.338 c -7.18,-28.538 -17.555,-59.985 -29.848,-86.75 -11.673,-25.418 -23.04447,-31.902398 -35.30947,-42.269398 -6.132,-5.183 -20.08979,-9.479834 -24.62679,-9.626834 z M 92.528,82.122 82.124,92.526 243.58,267.651 267.652,243.579 Z m -24.357,21.826 c -0.929,0.21 -1.857,0.42 -2.836,0.654 -14.267,3.407 -19.65306,7.10945 -25.24006,12.69545 -5.813,5.813 -3.594845,10.355 -3.448845,14.893 0.147,4.538 3.717052,13.15569 8.900052,19.28869 10.367,12.265 15.794853,25.20386 41.211853,36.87686 26.766,12.293 58.211,22.669 86.749,29.848 L 68.17,103.948 Z m 212.728,151.842 -25.107,25.107 73.265,79.469 31.31,-31.31 L 280.9,255.79 Z m 92.715,85.476 -32.346,32.344 2.07,2.246 c 0.061,0.058 4.419,4.224 10.585,6.28 6.208,2.069 12.71,2.88 21.902,-6.313 9.192,-9.192 8.38,-15.694 6.31,-21.902 -2.057,-6.174 -6.235,-10.54 -6.283,-10.59 z m 18.90695,41.21854 c -1.55804,2.22504 -2.0441,4.14889 -3.96795,6.06646 -6.02894,4.47706 -10.64244,2.08094 -12.86752,3.63965 L 489.91,489.91 393.31061,377.05936 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1"
+             sodipodi:nodetypes="cscccccccccccccccccccccccccccccccccccccccc" />
+        </g>
+      </g>
+      <text
+         transform="scale(1.1285149,0.88612034)"
+         id="text1027-1-4-17-6-3-9-58-1"
+         y="31.822817"
+         x="0.66104609"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.18850012px;line-height:0.89999998;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00785418"
+         xml:space="preserve"><tspan
+           id="tspan1207-7-4-4-6-6-2-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.17706501px;line-height:0;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:-0.00373499px;text-anchor:middle;stroke-width:0.00785418"
+           y="31.822817"
+           x="0.65917856"
+           sodipodi:role="line">Projectile</tspan><tspan
+           id="tspan5464"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.17706501px;line-height:0;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:-0.00373499px;text-anchor:middle;stroke-width:0.00785418"
+           y="31.992468"
+           x="0.65917856"
+           sodipodi:role="line">Weapon</tspan><tspan
+           id="tspan1477-8-7-21-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.17706501px;line-height:0;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:-0.00373499px;text-anchor:middle;stroke-width:0.00785418"
+           y="32.162117"
+           x="0.66104609"
+           sodipodi:role="line" /></text>
+      <text
+         inkscape:transform-center-y="-0.062608413"
+         inkscape:transform-center-x="-0.003682848"
+         transform="scale(0.97419532,1.0264882)"
+         id="text5157-2-0-9"
+         y="27.303379"
+         x="0.75594819"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.1623659px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01014787"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.1623659px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-0.00355177px;stroke-width:0.01014787"
+           y="27.303379"
+           x="0.75417244"
+           id="tspan5155-0-6-9"
+           sodipodi:role="line">Crysknife</tspan></text>
+    </g>
+  </g>
+</svg>
